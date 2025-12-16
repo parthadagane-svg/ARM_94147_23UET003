@@ -1,0 +1,13 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	24	static
+../Src/main.c:52:5:main	16	static
+../Src/main.c:113:6:led_init	4	static
+../Src/main.c:130:6:led_on_q1	4	static
+../Src/main.c:135:6:led_off_q1	4	static
+../Src/main.c:141:6:led_alternate_pattern1	4	static
+../Src/main.c:147:6:led_alternate_pattern2	4	static
+../Src/main.c:154:6:led_run_lr	16	static
+../Src/main.c:166:6:led_run_rl	16	static
+../Src/main.c:178:6:led_on	4	static
+../Src/main.c:183:6:led_off	4	static
+../Src/main.c:189:6:led_toggle_xor	4	static
+../Src/main.c:195:6:pattern_transition	8	static
