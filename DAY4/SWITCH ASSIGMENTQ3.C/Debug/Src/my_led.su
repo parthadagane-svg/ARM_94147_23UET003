@@ -1,0 +1,5 @@
+../Src/my_led.c:10:6:led_init	4	static
+../Src/my_led.c:26:6:led_one	4	static
+../Src/my_led.c:31:6:led_two	4	static
+../Src/my_led.c:35:6:led_three	4	static
+../Src/my_led.c:39:6:led_four	4	static
